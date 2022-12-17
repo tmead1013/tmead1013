@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tmead1013
-- 👀 I’m interested in creativity fun products
+- 👀 I’m interested in creative, fun products
 - 🌱 I’m currently learning little bits of SwiftUI and Java in spare time
 - 💞️ I’m looking to collaborate on ...not sure quite yet :)
 - 📫 How to reach me ... not yet
